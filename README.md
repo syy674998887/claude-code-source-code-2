@@ -6,14 +6,16 @@
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-512K%2B_lines-3178C6?logo=typescript&logoColor=white)](#tech-stack)
 [![Bun](https://img.shields.io/badge/Runtime-Bun-f472b6?logo=bun&logoColor=white)](#tech-stack)
-[![React + Ink](https://img.shields.io/badge/UI-React_%2B_Ink-61DAFB?logo=react&logoColor=black)](#tech-stack)
 [![Files](https://img.shields.io/badge/~1,900_files-source_only-grey)](#directory-structure)
 [![MCP Server](https://img.shields.io/badge/MCP-Explorer_Server-blueviolet)](#-explore-with-mcp-server)
-[![npm](https://img.shields.io/npm/v/claude-code-explorer-mcp?label=npm&color=cb3837&logo=npm)](https://www.npmjs.com/package/claude-code-explorer-mcp)
 
 > The original unmodified leaked source is preserved in this repository's [`backup` branch](https://github.com/777genius/claude-code-source-code/tree/backup).
 
 </div>
+
+Also check out these two cool projects:
+1. [claude_agent_teams_ui](https://github.com/777genius/claude_agent_teams_ui) - You're the CTO, agents are your team. They handle tasks themselves, message each other, review each other's code. You just look at the kanban board and drink coffee.
+2. [claude-notifications-go](https://github.com/777genius/claude-notifications-go) - 🔔 Cross-platform smart notifications plugin for Claude Code. 6 types. Click-to-focus. 1 line installation.
 
 ---
 
